@@ -1,1 +1,1 @@
-
+<title>MaxiLife</title>
